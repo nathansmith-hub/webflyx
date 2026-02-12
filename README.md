@@ -1,4 +1,4 @@
-# webflyx
+# Webflyx
 
 Part of the 'Learn Git' course with Boot.dev, this repository demonstrates fundamental version control concepts and workflows.
 
